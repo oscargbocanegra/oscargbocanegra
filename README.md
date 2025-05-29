@@ -52,7 +52,7 @@ Here you can find some of the projects I'm currently working on:
 ### Learning Path
 - [Machine Learning](https://github.com/oscargbocanegra/Learning/tree/main/01-MachineLearning) - Deep learning and data science projects with Python
 - [Apache Spark](https://github.com/oscargbocanegra/Learning/tree/main/02-Spark) - Big data processing with Apache Spark 3
-- [Python](https://github.com/oscargbocanegra/Learning/tree/main/03-Python) - Various Python projects and learning materials
+- [Python](https://github.com/oscargbocanegra/python-cero-expert) - Various Python projects and learning materials
 - [Docker](https://github.com/oscargbocanegra/Learning/tree/main/04-docker) - Containerization and infrastructure as code
 - [Testing & Automation](https://github.com/oscargbocanegra/Learning/tree/main/06-testing-automation) - Automated testing frameworks and techniques
 
