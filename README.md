@@ -8,7 +8,7 @@ I work at the intersection of **data engineering**, **artificial intelligence**,
 
 ## What I build
 
-- **AI & LLM Systems** — RAG workflows, local/self-hosted AI stacks, vector search, and MCP-based tooling
+- **AI & LLM Systems** — RAG workflows, local/self-hosted AI stacks, semantic extraction pipelines, vector search, and MCP-based tooling
 - **Data Engineering** — ETL pipelines, large-scale processing, orchestration, and reproducible data workflows
 - **Platform & Infra** — containerized environments, experimentation labs, and production-style technical setups
 - **Developer Tooling** — practical repositories that turn exploration into structured, reusable engineering assets
@@ -37,18 +37,19 @@ A practical repository exploring LLM workflows, knowledge systems, and real-worl
 
 ---
 
-### [mcp-for-beginners](https://github.com/oscargbocanegra/mcp-for-beginners)
+### [semantic-concept-extraction-pipeline](https://github.com/oscargbocanegra/semantic-concept-extraction-pipeline)
 
-**Model Context Protocol implementations and learning path**
+**Semantic NLP pipeline for concept and relationship extraction**
 
-A structured repository for understanding and building MCP servers, clients, and integrations across real development scenarios.
+A standalone AI showcase extracted from thesis-oriented work, focused on parsing structured artifacts, normalizing semantic fields, extracting concepts, and generating ontology-oriented update suggestions.
 
-**Focus:** MCP, AI tooling, protocol integrations, developer workflows
+**Focus:** NLP, semantic processing, information extraction, ontology-oriented AI
 
 ---
 
 ## Selected Technical Work
 
+- [mcp-for-beginners](https://github.com/oscargbocanegra/mcp-for-beginners) — MCP implementations and protocol-oriented AI tooling across Python and TypeScript
 - [master-artificial-intelligence-unir](https://github.com/oscargbocanegra/master-artificial-intelligence-unir) — AI master's work covering machine learning, NLP, and automated reasoning
 - [graphql_cero_expert](https://github.com/oscargbocanegra/graphql_cero_expert) — GraphQL implementation work and API-focused development
 - [python-cero-expert](https://github.com/oscargbocanegra/python-cero-expert) — Python projects, automation, and practical learning exercises
